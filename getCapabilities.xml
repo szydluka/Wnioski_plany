@@ -217,7 +217,7 @@
 				<Title>wniosek_linia</Title>
 				<Abstract>GH:wniosek_linia ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/wniosek_linia.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/wniosek_linia.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="12.335659663813777" miny="47.67374685756748" maxx="12.335659663813777" maxy="47.67374685756748"></LatLonBoundingBox>
@@ -237,7 +237,7 @@
 				<Title>wniosek_poligon</Title>
 				<Abstract>GH:wniosek_poligon ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/wniosek_poligon.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/wniosek_poligon.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="12.335659663813777" miny="47.67374685756748" maxx="12.335659663813777" maxy="47.67374685756748"></LatLonBoundingBox>
@@ -257,7 +257,7 @@
 				<Title>gminy</Title>
 				<Abstract>GH:gminy ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/gminy.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/gminy.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="18.933231676803086" miny="54.02968982009008" maxx="20.115696558615095" maxy="54.4599695223377"></LatLonBoundingBox>
@@ -277,7 +277,7 @@
 				<Title>obszar_planu_zalew</Title>
 				<Abstract>GH:obszar_planu_zalew ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/obszar_planu_zalew.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/obszar_planu_zalew.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="19.222905124921635" miny="54.21725695004556" maxx="19.80441955840437" maxy="54.45480816043432"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>obszar_planu_elblag</Title>
 				<Abstract>GH:obszar_planu_elblag ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/obszar_planu_elblag.zip˸notListing˸˸maxZoom˸7</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/szydluka/Wnioski_plany/releases/download/Map_Download/obszar_planu_elblag.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="19.35895041168648" miny="54.144390712091926" maxx="19.395675413855578" maxy="54.25670394428799"></LatLonBoundingBox>
